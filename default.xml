@@ -9,5 +9,6 @@
   <project path="note" name="myntai_work_note">
   </project>
   <project path="demo" name="daily-demo" />
+  <project path="tx2" name="tx2_update" />
 
 </manifest>
