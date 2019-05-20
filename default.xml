@@ -6,9 +6,21 @@
   <default revision="master"
            remote="github" />
 
-  <project path="note" name="myntai_work_note">
-  </project>
-  <project path="demo" name="daily-demo" />
-  <project path="tx2" name="tx2_update" />
+  <project path="language/c" name="c" />
+  <project path="language/c++" name="c-" />
+  <project path="language/java" name="java" />
+  <project path="language/python" name="python" />
+  <project path="language/shell" name="shell" />
+
+
+  <project path="application/android" name="android-app"/>
+  <project path="application/linux" name="linux-app"/>
+
+
+  <project path="tool/makefile" name="makefile"/>
+  <project path="tool/git" name="git"/>
+
+
+  <project path="os/driver" name="driver" />
 
 </manifest>
