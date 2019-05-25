@@ -19,6 +19,8 @@
 
   <project path="tool/makefile" name="makefile"/>
   <project path="tool/git" name="git"/>
+  <project path="tool/gdb" name="gdb"/>
+  <project path="tool/cmake" name="cmake"/>
 
 
   <project path="os/driver" name="driver" />
