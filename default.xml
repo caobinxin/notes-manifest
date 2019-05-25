@@ -24,5 +24,6 @@
 
 
   <project path="os/driver" name="driver" />
+  <project path="os/kernel4.0" name="runninglinuxkernel_4.0" />
 
 </manifest>
