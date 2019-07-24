@@ -25,5 +25,6 @@
 
   <project path="os/driver" name="driver" />
   <project path="os/kernel4.0" name="runninglinuxkernel_4.0" />
+  <project path="os/hoaios" name="x86.os.64bit" />
 
 </manifest>
